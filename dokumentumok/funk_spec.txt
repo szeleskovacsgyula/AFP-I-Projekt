@@ -9,4 +9,8 @@
   Ezen oldalak áttekinthetősége nehézkés, sőt legtöbbször nem is sikerül egy olyan embernek aki nem feltétlen az informatika területén szélesítette tudását.
   Szakember, hozzá értő segítségére mindig szükség van és néha egyszerűbb megbízni az oldal elkészítésével, üzemeltetésével karban tartásával.
 
-3
+3, Vágyálomrendszer:
+  Az általunk készített weboldal HTML-ban készülne  és CSS nyelven írnánk hozzá a kinézetet. A kezdőoldal lenne az ismertető oldal Önről. Az ismertető oldalon felül lenne
+  egy navigációs blokk, vagy akár mondhatnánk azt is hogy navigációs menü. Ez a menü jelenne meg minden további oldalon ls a menüben ki lenne emelve hogy mi az aktuális oldal
+  Az oldal tartalma az Ön álltal leírtakat tartalmazná. A navigációs menüben a kiválasztott oldalra kattintva nyílik meg az új oldal.
+  
