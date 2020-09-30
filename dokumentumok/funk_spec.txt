@@ -1,0 +1,5 @@
+1, Áttekintés:
+  A technologia fejlődésével az internet népszerű lett mindenki körében. A cégek weblapokat kezdtek el csinálni, hogy népszerűsítsék magukat, elérhetőségüket közöljék.
+  A magán személyek is elkezdtek weboldalakat készíteni, hogy megkönnyítsék az információ cserét.
+  A fejlődéssel és közösségi oldalakkal egyidejüleg a hagyományos weboldalak elveszítették funkciójukat, mivel a közzösségi hálón lehetőség van "profilt" létrehozni a
+  vállalkozásnak. Ezek a profilok sokszor praktikusabbak.
