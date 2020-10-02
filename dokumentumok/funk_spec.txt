@@ -17,3 +17,8 @@
   Amennyiben az önéletrajzát szeretné megtekinteni akkor táblázatos, (euro pass-os) formátumban lesz a rövid ismertetó. Az ismertető alatt két gomb fog elhelyezkedni,
   az egyik gomb az önéletrajz PDF formátumban való letöltését biztosítja, míg a másik az alapértelmezett levelző programot nyitja meg, hogy e-mailt tudjon küldeni. 
   Minden oldal alján egy gomb lesz található ami az alapértelmezett (bemutatkozó) oldalra fogja vissza irányítani.
+
+4, Jelenlegi üzleti folyamatok.
+    Jelenleg, ha az ember normális weboldalt szeretnének készítettni akkor egy olyan céget kell keresnie akik rendelkeznek referenciával és értenek a dizájnoláshoz. 
+    Az előre elkészített weboldalak sokszor nem személyre szabhatóak és el van bennük reklám helyezve, hogy az ingyenességet vagy éppen a minimális árakat fent tudják tartani
+    Egy saját oldal esetében a fenntartás érdekéből lehet reklámozni, de így a tulajdonos dönti el, hogy milyen reklámokat helyez el az oldalán.
