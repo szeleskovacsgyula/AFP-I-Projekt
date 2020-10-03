@@ -22,3 +22,5 @@
     Jelenleg, ha az ember normális weboldalt szeretnének készítettni akkor egy olyan céget kell keresnie akik rendelkeznek referenciával és értenek a dizájnoláshoz. 
     Az előre elkészített weboldalak sokszor nem személyre szabhatóak és el van bennük reklám helyezve, hogy az ingyenességet vagy éppen a minimális árakat fent tudják tartani
     Egy saját oldal esetében a fenntartás érdekéből lehet reklámozni, de így a tulajdonos dönti el, hogy milyen reklámokat helyez el az oldalán.
+
+5. Igényelt üzleti folyamatok:
