@@ -35,5 +35,9 @@
    Szakmai tapasztalatokat, Tanulmányokat és végezetül a Készségeket tüntetjük fel. A lényeg a funkcionalitás, azaz hogy az illetőről    rövid időn belül minnél több információt
    tudjanak meg az emberek és ezáltal a mi feladatunk eme információhalmaznak egy rendszerezett és egyben zanzásított verzióját    visszaadni.
 
- 
+ -Videók:
+  A Videók oldal két fő funkcióval fog rendelkezni:
+	I.: Az oldal birtokosa képes legyen a saját videóit megosztani.
+	II.: Az oldal birtokosa képes legyen YouTuberól való videókat beágyzni.
    
+  Mindeggyik oldalnak elérhetőnek kell lennie mindenhonnan.
