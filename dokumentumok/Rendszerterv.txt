@@ -14,3 +14,63 @@
     2020.10.4.		    Tesztek (Unit, Alpha, Beta)
     2020.10.6.		    Projekt átadása						        
 
+3, Üzleti folyamatok modellje
+
+    Üzleti szereplõk:
+	    -Tulajdonos
+	    -Mindenki más
+
+    Támogatandó üzleti folyamatok:
+	    -Információk frissítése
+	    -Videók feltöltése
+
+    Üzleti folyamatok leírása:
+
+    Lejátszás:
+        Az oldalon letudjuk játszani a meglévő videókat. Ehhez saját online lejátszót kell használni.
+
+    Videók feltöltése:
+        A tulajdonosnak és az admin(ok)-nak lehetőségük lesz videók és azok leírásának feltöltésére.
+
+    Modell:
+        Kezdőoldal 	-> Önéletrajz -> Önéletrajz letöltés
+                                  -> E-mail küldés
+		            -> Videók
+
+4, Követelmények
+
+   Funkcionális követelmények:
+	- A tulajdonos adatainak tárolása a GDPR-nak megfelelően	
+	- Webes felületen gördülékenyen kell működnie
+ 
+   Nem funkcionális követelmények:
+	- Letisztult, esztétikus kinézet
+	- Pc eszköz támogatása	
+
+   Törvényi előírások:
+	- A hatályban lévő GDPR szabályozásnak meg kell felelnie.
+
+5, Funkcionális terv
+
+Rendszerszereplők:
+	-Admin
+	-Látogatók
+
+Rendszer használati esetek és lefutásaik:
+
+	Látogatók
+		-Videók lejátszása
+		-Önéletrajz megtekintése
+		-Önéletrajz letöltése
+		-Kapcsolat felvétel
+	
+	Admin:
+		-Tulajdonos adatainak módosítása
+		-Videók kezelése
+
+6, Absztrakt modell
+
+    A program működése során a felhasználó kétféle szerepkörben szerepelhet: Látogató vagy admin felhasználó. Ennek megfelelően kap az alany funkciókat, 
+    amelyek a szerepkörökhöz kizárólagosan vagy nem kizárólagosan kapcsolódnak: azaz vagy csak ő fér hozzá, vagy mindenki más.
+    Ezen a szinten még csak logikai elkülönítés történik a funkciók elérésében, nem valódi. 
+    Ez azt jelenti, hogy például a zene lejátszás hozzáférhetőek mindkét szerepkör számára, de az videófeltöltés csak az admin felhasználónak érhető el.
