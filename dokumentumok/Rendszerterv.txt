@@ -1,0 +1,16 @@
+1, A rendszer célja
+
+    A rendszer célja, hogy a Követelmény és Funkcionális specifikációban meghatározott megrendelői folyamatok megvalósuljanak.
+    Egy olyan online bemutatkozó oldalt szeretnénk létrehozni, ami használhatóságban, megjelenésben és funkcióit tekintve,a megrendelőkívánságainak eleget tesz. 
+    A weboldalt bárki elfogja tudni érni és a megrendelő álltal megosztott információkat láthatja. Fontosnak tartjuk, hogy a megrendelő oldala
+    mindig napra kész legyen. AZ oldalunk célja, népszerűsíteni a megrendelőt és egyben a szoftver gyártó cégünket.
+
+2, Projektterv
+
+	    Dátum		    Tevékenység						            
+	
+    2020.09.28.-10.1.	Dokumentációk elkészítése és véglegesítése
+    2020.10.01.		    Fejlesztés megkezdése
+    2020.10.4.		    Tesztek (Unit, Alpha, Beta)
+    2020.10.6.		    Projekt átadása						        
+
