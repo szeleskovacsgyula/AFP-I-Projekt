@@ -57,3 +57,39 @@ body{
     left: 45%;
     width: 80%;
 }
+.welcome-type{
+    color: #ddd;
+    position: fixed;
+    left: 43%;
+    top: 16%;
+}
+
+.main-page.leiras{
+    margin: auto;
+    position: fixed;
+    top: 20%;
+    left: 10%;
+    width: 80%;
+    color: #ddd;
+    text-align: justify;
+}
+
+.main-page p{
+    color: #ddd;
+    margin: auto;
+    float: left;
+}
+
+.footer-page {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-decoration-color: white;
+    text-align: center;
+    background-color: black;
+}
+
+.footer-page p{
+    color: #ddd;
+}
