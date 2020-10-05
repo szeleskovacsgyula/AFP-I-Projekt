@@ -1,0 +1,11 @@
+body{
+    background-image: url("./../images/index_stars_background.jpg");
+    background-repeat: no-repeat;
+    position: fixed;
+}
+
+.main-page {
+  margin:auto;
+  width: 80%;
+  height: 80%;
+}
