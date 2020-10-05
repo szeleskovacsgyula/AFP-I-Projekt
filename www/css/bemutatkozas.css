@@ -25,3 +25,35 @@ body{
    text-decoration: none;
    font-size: 17px;
 }
+.main-menu a:hover {
+  background-color: #ddd;
+  color: black;
+}
+  
+.main-menu a.active {
+  background-color: grey;
+  color: white;
+}
+
+.image-box {
+    width: 200px;
+    height: 200px;
+    position: fixed;
+    float: left;
+    top: 5%;
+    left:30%;
+}
+
+.image-view{
+    width: 150px;
+    height: 150px;
+    left: 33%;
+}
+
+.page-name{
+    color: white;
+    position: fixed;
+    top: 8%;
+    left: 45%;
+    width: 80%;
+}
