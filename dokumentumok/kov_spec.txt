@@ -1,3 +1,10 @@
 1, Bevezetés: 
 	Egy olyan weboldalt szeretnék ahol a kedvenc videóimat, önéletrajzomat elérhetem és egy bemutatkozással indul a kezdõlap. Manapság már mindenki tárolja valahol ezeket
  és böngészõbõl elérhetõ.
+
+2, Jelenlegi helyzet
+:
+	A telefonomon tárolom ezeket, de folyton kevés a tárhelyem. Ha ki kell nyomtatni az önéletrajzom akkor a papírboltba pendriven kell bevinnem, amit sok esetben
+    nem fogadnak el, mert azt mondják, hogy lehet vírusos. A kedvenc youtube zenéimet nem tudom sehova lementeni, hogy keresés nélkül megtaláljam õket. Ha valaki e-mailt
+    szeretne küldeni nekem csak akkor tud, ha elkéri az e-mail címem.
+
