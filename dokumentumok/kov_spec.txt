@@ -1,10 +1,22 @@
 1, Bevezetés: 
-	Egy olyan weboldalt szeretnék ahol a kedvenc videóimat, önéletrajzomat elérhetem és egy bemutatkozással indul a kezdõlap. Manapság már mindenki tárolja valahol ezeket
+	Egy olyan weboldalt szeretnénk ahol a kedvenc videóimat, önéletrajzomat elérhetem és egy bemutatkozással indul a kezdõlap. Manapság már mindenki tárolja valahol ezeket
  és böngészõbõl elérhetõ.
 
 2, Jelenlegi helyzet
 :
-	A telefonomon tárolom ezeket, de folyton kevés a tárhelyem. Ha ki kell nyomtatni az önéletrajzom akkor a papírboltba pendriven kell bevinnem, amit sok esetben
-    nem fogadnak el, mert azt mondják, hogy lehet vírusos. A kedvenc youtube zenéimet nem tudom sehova lementeni, hogy keresés nélkül megtaláljam õket. Ha valaki e-mailt
-    szeretne küldeni nekem csak akkor tud, ha elkéri az e-mail címem.
+	A telefonunkon tároljuk ezeket, de folyton kevés a tárhelyünk. Ha ki kell nyomtatni az önéletrajzot akkor a papírboltba pendriven kell bevinni, amit sok esetben
+ nem fogadnak el, mert azt mondják, hogy lehet vírusos. A kedvenc youtube zenéimnkett nem tudom sehova lementeni, hogy keresés nélkül megtaláluk õket. Ha valaki e-mailt
+ szeretne küldeni csak akkor tud, ha elkéri az e-mail címet.
 
+
+
+
+
+3, Vágyálom rendszer:
+
+    	Szeretnénk egy olyan weboldlat ahol a kezdõlapon elhelyezkedik valamilyen menü és külön oldalon találhatóak a videók és az önéletrajz. A kezdõlap tartalma egy rövid
+ bemutatozás lenne. A videós oldalon szeretnénk, ha lennének elõre feltöltött videók és youtubból megnyíló vidók. Szeretnénk ha ez a két csoport egymás mellett helyezkedne el és egy cím és
+ rövid leírás lenne.
+ Az önélet rajzos oldalt úgy képzeljük el, hogy egy rövidített önéletrajz lenne kezdésnek és pdf-ben letölthetõ lenne a teljes. Szeretnénk, ha a letöltés gomb alatt lenne
+ egy olyan gomb amivel e-mailt lehet küldeni. 
+A menü minden oldalon jelenjen meg.
