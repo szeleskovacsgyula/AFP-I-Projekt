@@ -74,3 +74,30 @@ Rendszer használati esetek és lefutásaik:
     amelyek a szerepkörökhöz kizárólagosan vagy nem kizárólagosan kapcsolódnak: azaz vagy csak ő fér hozzá, vagy mindenki más.
     Ezen a szinten még csak logikai elkülönítés történik a funkciók elérésében, nem valódi. 
     Ez azt jelenti, hogy például a zene lejátszás hozzáférhetőek mindkét szerepkör számára, de az videófeltöltés csak az admin felhasználónak érhető el.
+
+7, Implementációs terv
+
+    A Webes felület főként HTML, és CSS nyelven fog készülni. Ezeket a technológiákat amennyire csak lehet külön fájlokba írva készítjük, és úgy fogjuk egymáshoz csatolni 
+    a jobb átláthatóság, könnyebb változtathatóság, és könnyebb bővítés érdekében.
+
+8, Teszt terv
+
+    I. Alpha teszt:
+	    Az alpha tesztet a fejlesztők végzik, amelyben a rendszer összeomlását próbálják elérni remélhetőleg sikertelenül. Amennyiben 
+	    felderítenek egy hibát jelentést írnak róla, majd javítják.
+	    Az alpha teszt során külön tesztelni kell a fontosabb funkciókat, mintpedig: design letisztultsága. A teszt során a hibák csökkentése az elsődleges cél.
+
+    II. Béta teszt:
+	    Az alpha tesztet követően a felhasználók elvégzik a béta tesztet, melynek során a programban maradt súlyosabb hibák felderítésre kerülnek, majd a fejlesztők javítják őket.
+	    A teszt során a stabilitás, letisztultság növelése a cél.
+
+        (A tesztekről naplót kell készíteni, amely alapján esetleges hibáknál kitölthető a hibajelentő.)
+
+9, Karbantartási terv
+
+    A szoftveren a későbbiekben nem kell nagyobb karbantartásokat elvégezni. Az esetleges karbantartások
+    a következőből állhatnak:
+        - Tesztelés frissebb veriójú böngészők használatával. Hiba észlelése esetén azok javítása
+        - A kiszolgáló szerver státuszának ellenőrzése, offline szerver esetén újraindítás.
+        - Igény esetén új funkciók hozzáadása
+        - Igény esetén új videók hozzáadása.
