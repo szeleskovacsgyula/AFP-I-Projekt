@@ -1,2 +1,0 @@
-1. Bevezetés: Egy olyan weboldalt szeretnék ahol a kedvenc videóimat, önéletrajzomat elérhetem és egy bemutatkozással indul a kezdõlap. Manapság már mindenki tárolja valahol ezeket
- és böngészõbõl elérhetõ.
