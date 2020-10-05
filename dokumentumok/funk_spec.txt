@@ -1,16 +1,43 @@
 1, Áttekintés:
-  A technologia fejlődésével az internet népszerű lett mindenki körében. A cégek weblapokat kezdtek el csinálni, hogy népszerűsítsék magukat, elérhetőségüket közöljék.
+  A technologia fejlődésével az internet népszerű lett mindenki körében. A cégek weblapokat kezdtek el csinálni, hogy népszerűsítsék   magukat, elérhetőségüket közöljék.
   A magán személyek is elkezdtek weboldalakat készíteni, hogy megkönnyítsék az információ cserét.
-  A fejlődéssel és közösségi oldalakkal egyidejüleg a hagyományos weboldalak elveszítették funkciójukat, mivel a közzösségi hálón lehetőség van "profilt" létrehozni a
+  A fejlődéssel és közösségi oldalakkal egyidejüleg a hagyományos weboldalak elveszítették funkciójukat, mivel a közzösségi hálón   lehetőség van "profilt" létrehozni a
   vállalkozásnak. Ezek a profilok sokszor praktikusabbak.
 
 2, Jelenlegi helyzet:
-  A magánszemélyek ritkán fizetnek azért, hogy saját weboldaluk legyen, sok esetben egy előre telepíthető telepíthető CMS rendszert használnak vagy esetleg az ingyen elérhetőket.
-  Ezen oldalak áttekinthetősége nehézkés, sőt legtöbbször nem is sikerül egy olyan embernek aki nem feltétlen az informatika területén szélesítette tudását.
-  Szakember, hozzá értő segítségére mindig szükség van és néha egyszerűbb megbízni az oldal elkészítésével, üzemeltetésével karban tartásával.
+  A magánszemélyek ritkán fizetnek azért, hogy saját weboldaluk legyen, sok esetben egy előre telepíthető telepíthető CMS rendszert   használnak vagy esetleg az ingyen elérhetőket.
+  Ezen oldalak áttekinthetősége nehézkés, sőt legtöbbször nem is sikerül egy olyan embernek aki nem feltétlen az informatika terüle-
+  tén szélesítette tudását.
+  Szakember, hozzá értő segítségére mindig szükség van és néha egyszerűbb megbízni az oldal elkészítésével, üzemeltetésével karban  tartásával.
 
 3, Vágyálomrendszer:
-  Az általunk készített weboldal HTML-ban készülne  és CSS nyelven írnánk hozzá a kinézetet. A kezdőoldal lenne az ismertető oldal Önről. Az ismertető oldalon felül lenne
-  egy navigációs blokk, vagy akár mondhatnánk azt is hogy navigációs menü. Ez a menü jelenne meg minden további oldalon ls a menüben ki lenne emelve hogy mi az aktuális oldal
-  Az oldal tartalma az Ön álltal leírtakat tartalmazná. A navigációs menüben a kiválasztott oldalra kattintva nyílik meg az új oldal.
-  
+  Az általunk készített weboldal HTML-ben készülne  és CSS nyelven írnánk hozzá a kinézetet. A kezdőoldal lenne az ismertető oldal   Önről. Az ismertető oldalon felül lenne
+  egy navigációs blokk, vagy akár mondhatnánk azt is hogy navigációs menü. Ez a menü jelenne meg minden további oldalon ls a menüben   ki lenne emelve hogy mi az aktuális oldal
+  Az oldal tartalma az Ön által leírtakat tartalmazná. A navigációs menüben a kiválasztott oldalra kattintva nyílik meg az új oldal.
+  Ha a videók menüpontra kattintanak, megnyílik az oldal és a bal oldalon az előre feltöltött videók fognak megnyílni, jobb oldalon     pedig a Youtube-ról beágyazott videók.
+  Amennyiben az önéletrajzát szeretné megtekinteni akkor táblázatos, (euro pass-os) formátumban lesz a rövid ismertetó. Az ismertető    alatt két gomb fog elhelyezkedni,
+  az egyik gomb az önéletrajz PDF formátumban való letöltését biztosítja, míg a másik az alapértelmezett levelző programot nyitja       meg, hogy e-mailt tudjon küldeni. 
+  Minden oldal alján egy gomb lesz található ami az alapértelmezett (bemutatkozó) oldalra fogja vissza irányítani.
+
+4, Jelenlegi üzleti folyamatok:
+  Jelenleg, ha az ember normális weboldalt szeretnének készítettni akkor egy olyan céget kell keresnie akik rendelkeznek referenci-
+  ával és értenek a dizájnoláshoz. 
+  Az előre elkészített weboldalak sokszor nem személyre szabhatóak és el van bennük reklám helyezve, hogy az ingyenességet vagy éppen   a minimális árakat fent tudják tartani
+  Egy saját oldal esetében a fenntartás érdekéből lehet reklámozni, de így a tulajdonos dönti el, hogy milyen reklámokat helyez el      az oldalán.
+
+5, Igényelt üzleti folyamatok:
+  -Főoldal:
+   A főoldal legfőbb funkcionalitása a magánszemély(az oldal birtokosa) olyan információinak való leírása, ami esetleg nem tüntetett     fel az önéletrajzában, de esetleg
+   meg szeretné osztani mint érdekeséget vagy mint egy "mellékinformációt" vagy esetleg egy teljesen egyszerű bemutatkozót szeretne      megosztani az emberekkel.
+
+  -Önéletrajz:
+   Az Önéletrajz oldalon alapvetően az EuroPass-os önéletrajz felépítését vesszük sablonként. Elsösorban a személyes adatokat    tüntetjük fel, majd a Munkaköröket, aztán a
+   Szakmai tapasztalatokat, Tanulmányokat és végezetül a Készségeket tüntetjük fel. A lényeg a funkcionalitás, azaz hogy az illetőről    rövid időn belül minnél több információt
+   tudjanak meg az emberek és ezáltal a mi feladatunk eme információhalmaznak egy rendszerezett és egyben zanzásított verzióját    visszaadni.
+
+ -Videók:
+  A Videók oldal két fő funkcióval fog rendelkezni:
+	I.: Az oldal birtokosa képes legyen a saját videóit megosztani.
+	II.: Az oldal birtokosa képes legyen YouTuberól való videókat beágyzni.
+   
+  Mindeggyik oldalnak elérhetőnek kell lennie mindenhonnan.
