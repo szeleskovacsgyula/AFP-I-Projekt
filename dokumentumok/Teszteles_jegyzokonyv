@@ -3,4 +3,4 @@ Az oldalakat az "https://validator.w3.org/#validate_by_upload" oldalon validált
 
 Mit csinálok: Megnézem hogy minden mindennel össze van e kapcsolva (html <--> html, html <---> css).
 Mi történik: Nincs összekapcsolva, valószínűleg az elérési útvonallal van a baj.
-Hibajavítás: Molnár Péter ----> Javitva  
+Hibajavítás: Molnár Péter ----> Javitva

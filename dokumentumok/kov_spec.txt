@@ -1,30 +1,49 @@
-1, Bevezetés: 
-	Egy olyan weboldalt szeretnénk ahol a kedvenc videóimat, önéletrajzomat elérhetem és egy bemutatkozással indul a kezdõlap. Manapság már mindenki tárolja valahol ezeket
- és böngészõbõl elérhetõ.
+1, Bevezetï¿½s: 
+	Egy olyan weboldalt szeretnï¿½nk ahol a kedvenc videï¿½imat, ï¿½nï¿½letrajzomat elï¿½rhetem ï¿½s egy bemutatkozï¿½ssal indul a kezdï¿½lap. Manapsï¿½g mï¿½r mindenki tï¿½rolja valahol ezeket
+ ï¿½s bï¿½ngï¿½szï¿½bï¿½l elï¿½rhetï¿½.
 
 2, Jelenlegi helyzet
 :
-	A telefonunkon tároljuk ezeket, de folyton kevés a tárhelyünk. Ha ki kell nyomtatni az önéletrajzot akkor a papírboltba pendriven kell bevinni, amit sok esetben
- nem fogadnak el, mert azt mondják, hogy lehet vírusos. A kedvenc youtube zenéimnkett nem tudom sehova lementeni, hogy keresés nélkül megtaláluk õket. Ha valaki e-mailt
- szeretne küldeni csak akkor tud, ha elkéri az e-mail címet.
+	A telefonunkon tï¿½roljuk ezeket, de folyton kevï¿½s a tï¿½rhelyï¿½nk. Ha ki kell nyomtatni az ï¿½nï¿½letrajzot akkor a papï¿½rboltba pendriven kell bevinni, amit sok esetben
+ nem fogadnak el, mert azt mondjï¿½k, hogy lehet vï¿½rusos. A kedvenc youtube zenï¿½imnkett nem tudom sehova lementeni, hogy keresï¿½s nï¿½lkï¿½l megtalï¿½luk ï¿½ket. Ha valaki e-mailt
+ szeretne kï¿½ldeni csak akkor tud, ha elkï¿½ri az e-mail cï¿½met.
 
 
 
 
 
-3, Vágyálom rendszer:
+3, Vï¿½gyï¿½lom rendszer:
 
-    	Szeretnénk egy olyan weboldlat ahol a kezdõlapon elhelyezkedik valamilyen menü és külön oldalon találhatóak a videók és az önéletrajz. A kezdõlap tartalma egy rövid
- bemutatozás lenne. A videós oldalon szeretnénk, ha lennének elõre feltöltött videók és youtubból megnyíló vidók. Szeretnénk ha ez a két csoport egymás mellett helyezkedne el és egy cím és
- rövid leírás lenne.
- Az önélet rajzos oldalt úgy képzeljük el, hogy egy rövidített önéletrajz lenne kezdésnek és pdf-ben letölthetõ lenne a teljes. Szeretnénk, ha a letöltés gomb alatt lenne
- egy olyan gomb amivel e-mailt lehet küldeni. 
-A menü minden oldalon jelenjen meg.
+    	Szeretnï¿½nk egy olyan weboldlat ahol a kezdï¿½lapon elhelyezkedik valamilyen menï¿½ ï¿½s kï¿½lï¿½n oldalon talï¿½lhatï¿½ak a videï¿½k ï¿½s az ï¿½nï¿½letrajz. A kezdï¿½lap tartalma egy rï¿½vid
+ bemutatozï¿½s lenne. A videï¿½s oldalon szeretnï¿½nk, ha lennï¿½nek elï¿½re feltï¿½ltï¿½tt videï¿½k ï¿½s youtubbï¿½l megnyï¿½lï¿½ vidï¿½k. Szeretnï¿½nk ha ez a kï¿½t csoport egymï¿½s mellett helyezkedne el ï¿½s egy cï¿½m ï¿½s
+ rï¿½vid leï¿½rï¿½s lenne.
+ Az ï¿½nï¿½let rajzos oldalt ï¿½gy kï¿½pzeljï¿½k el, hogy egy rï¿½vidï¿½tett ï¿½nï¿½letrajz lenne kezdï¿½snek ï¿½s pdf-ben letï¿½lthetï¿½ lenne a teljes. Szeretnï¿½nk, ha a letï¿½ltï¿½s gomb alatt lenne
+ egy olyan gomb amivel e-mailt lehet kï¿½ldeni. 
+A menï¿½ minden oldalon jelenjen meg.
 
 
 
-4, Jelenlegi üzleti folyamatok
+4, Jelenlegi ï¿½zleti folyamatok
 :
-  	 Jelenleg ha egy videót szeretnénk letölteni youtubról akkor keresnünk kell egy konvertálót, hogy lementsük, nem tudjuk eltárolni a videót, hogy megtaláljuk könnyen. 
-    Az önéletrajzot mindig ki kell nyomtatni, e-mailben elküldeni. Szerintünk sokkal menõbbek lennénk, ha csak egy URL-t küldenénk és több dolgot tudnának meg rólunk, mint egy
-    önéletrajzból. Nagyobb betekintést kapnának arról, hogy Én ki is vagyok. 
+  	 Jelenleg ha egy videï¿½t szeretnï¿½nk letï¿½lteni youtubrï¿½l akkor keresnï¿½nk kell egy konvertï¿½lï¿½t, hogy lementsï¿½k, nem tudjuk eltï¿½rolni a videï¿½t, hogy megtalï¿½ljuk kï¿½nnyen. 
+    Az ï¿½nï¿½letrajzot mindig ki kell nyomtatni, e-mailben elkï¿½ldeni. Szerintï¿½nk sokkal menï¿½bbek lennï¿½nk, ha csak egy URL-t kï¿½ldenï¿½nk ï¿½s tï¿½bb dolgot tudnï¿½nak meg rï¿½lunk, mint egy
+    ï¿½nï¿½letrajzbï¿½l. Nagyobb betekintï¿½st kapnï¿½nak arrï¿½l, hogy ï¿½n ki is vagyok. 
+
+
+5, IgÃ©nyelt Ã¼zleti folyamatok:
+   A megrendelÅ‘ vÃ©lemÃ©nye az, hogy egy bemutatkozÃ¡s legyen rÃ¶vid, tÃ¶mÃ¶r Ã©s praktikus. Viszont a kÃ¶vetelmÃ©nyei kÃ¶zÃ©
+   tartozik az is hogy legyen lehetÅ‘sÃ©ge tovÃ¡bbi informÃ¡ciÃ³kat megosztani mÃ¡sokkal.
+   
+   -BemutatkozÃ¡s:
+   Itt a mÃ¡sodik kÃ¶vetelmÃ©ny egy rÃ©szÃ©rÃ©nek valÃ³ teljesÃ­tÃ©sÃ©re gondoltunk, hogy itt meg tud adni olyan informÃ¡ciÃ³kat 
+   amik nem feltÃ©tlen hasznosak, de a megrendelÅ‘ fontosnak Ã©rzi megosztani azokat.
+
+   -Ã–nÃ©letrajz:
+   Itt arra gondoltunk, hogy az EuroPass fÃ©le zanzÃ¡sÃ­tot Ã¶nÃ©letrajz felÃ©pÃ­tÃ©se alapjÃ¡n lÃ©trehoznÃ¡nk egy olyan
+   szekciÃ³t, amelyben lÃ©nyegretÃ¶rÅ‘en Ã©s rÃ¶viden meg tudnÃ¡ osztani a legfÅ‘bb informÃ¡ciÃ³kat magÃ¡rÃ³l.
+
+
+   -VideÃ³k:
+   Itt a mÃ¡sodik kÃ¶vetelmÃ©ny mÃ¡sodik rÃ©szÃ©re gondoltunk, hogy hogyan is bÅ‘vÃ­thetnÃ©nk ki megrendelÅ‘nk szemÃ©lyisÃ©gÃ©nek    kibontakozÃ¡si lehetÅ‘sÃ©geit. Az elvÃ¼nk az volt eme szekciÃ³ lÃ©trehozÃ¡sa kÃ¶zben, hogy akÃ¡r sajÃ¡t maga Ã¡lltal feltÃ¶lt   Ã¶tt, akÃ¡r a Youtube -rÃ³l beÃ¡gyazott videÃ³kkal audiovizuÃ¡lis emlÃ©keket osszon meg az oldal lÃ¡togatÃ³ival. 
+
+  TovÃ¡bbi kÃ¶vetelmÃ©ny: ElÃ©rhetÅ‘sÃ©g. Mindennek elÃ©rhetÅ‘nek kell lennie mindenhonnan.
