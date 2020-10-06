@@ -1,5 +1,5 @@
 body{
-    background-image: url("./../images/index_stars_background.jpg");
+    background-image: url("../../képek/index_stars_background.jpg");
     background-repeat: no-repeat;
     position: fixed;
 }
@@ -29,7 +29,7 @@ body{
   background-color: #ddd;
   color: black;
 }
-  
+
 .main-menu a.active {
   background-color: grey;
   color: white;

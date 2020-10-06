@@ -1,0 +1,6 @@
+Az oldalakat az "https://validator.w3.org/#validate_by_upload" oldalon validáltattam.
+
+
+Mit csinálok: Megnézem hogy minden mindennel össze van e kapcsolva (html <--> html, html <---> css).
+Mi történik: Nincs összekapcsolva, valószínűleg az elérési útvonallal van a baj.
+Hibajavítás: Molnár Péter ----> Javitva  
